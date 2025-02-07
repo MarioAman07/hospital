@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.domain.EntityScan;
 @Setter
 @ToString
 
+
 public class Doctor {
 
 }
